@@ -1,0 +1,3 @@
+->> Install library "pytesseract"
+->> upload file photo to folder image
+->> change yourname file to image
